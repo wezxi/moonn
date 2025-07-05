@@ -1,0 +1,15 @@
+
+.block{
+    display: flex;
+    width: 1000px;
+    justify-content: space-around;
+}
+.box{
+    width: 680px;
+}
+.green{
+    width: 680px;
+    height: 200px;
+    background-color: green;
+}
+.inline
